@@ -1,0 +1,2 @@
+# AutomationTraining
+starting with GIT
